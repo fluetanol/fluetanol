@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Fluetanol&fontSize=75&animation=fadeIn&fontAlignY=40)
 
-게임 개발이 참 재밌긴 하다
+##게임 개발이 참 재밌긴 하다   
 
 
 # 🤔 SKILL
