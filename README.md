@@ -19,7 +19,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mike415415)](https://solved.ac/fluetanol/) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fluetanol=anuraghazra&show_icons=true&theme=radical)
+![fluetanol's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluetanol&show_icons=true&theme=radical
 
 <!--
 **fluetanol/fluetanol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
