@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Fluetanol&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Fluetanol&fontSize=75&animation=fadeIn)
 
 ### 🤔 SKILL
 #### ENGINE && LANGUAGE
