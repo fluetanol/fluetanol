@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Fluetanol&fontSize=75&animation=fadeIn&fontAlignY=40)
 
-## 쓰러지고 넘어져도 포기 하고 싶어도 좀비 같이 일어나기
+## 쓰러지고 넘어져서 포기 하고 싶어도 좀비 같이 일어나기
 
 
 # 🤔 SKILL
