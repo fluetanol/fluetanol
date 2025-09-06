@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=*ㅁ*&fontSize=75&animation=fadeIn&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text==ㅁ=&fontSize=75&animation=fadeIn&fontAlignY=40" alt="header"/>
 </p>
 
 <div align="center"><h1>게임 개발자가 되고 싶은 오타쿠 서식지</h1></div>
@@ -25,9 +25,10 @@
 </div>
 
 
+<br>
+<br>
+<div align="center"><h1>⚡ Statistics</h1></div>
 
-           
-<h3 align="center">⚡ Statistics</h3>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluetanol&theme=radical"/>
