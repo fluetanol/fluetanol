@@ -1,21 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=*ㅁ*&fontSize=75&animation=fadeIn&fontAlignY=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=*ㅁ*&fontSize=75&animation=fadeIn&fontAlignY=40" alt="header"/>
+</p>
 
-## Unity Game Developer
+<div align="center"><h1>게임 개발자가 되고 싶은 오타쿠 서식지</h1></div>
 
-**ENGINE && LANGUAGE** 
+<!-- ENGINE & LANGUAGE -->
+<div align="center">
+  <h3>ENGINE &amp; LANGUAGE</h3>
+  <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unrealengine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <br/><br/>
+</div>
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- IDE & TOOLS -->
+<div align="center">
+  <h3>IDE &amp; TOOLS</h3>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
-**Using IDE, Tool** 
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
            
-### ⚡ Stastics
-  ![fluetanol's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluetanol&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mike415415)](https://solved.ac/fluetanol/) 
-  
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluetanol&layout=compact) -->
+<h3 align="center">⚡ Statistics</h3>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fluetanol&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fluetanol&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/mike415415">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mike415415" alt="Solved.ac Profile"/>
+  </a>
+</p>
 
 
 
