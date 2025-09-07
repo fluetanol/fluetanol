@@ -5,6 +5,8 @@
 <div align="center"><h1>게임 개발자가 되고 싶은 오타쿠 서식지</h1></div>
 
 <!-- ENGINE & LANGUAGE -->
+<div align="center"><h2>⚡ Stack</h2></div>
+
 <div align="center">
   <h3>ENGINE &amp; LANGUAGE</h3>
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -27,7 +29,8 @@
 
 <br>
 <br>
-<div align="center"><h1>⚡ Statistics</h1></div>
+
+<div align="center"><h2>⚡ Statistics</h2></div>
 
 
 <p align="center">
