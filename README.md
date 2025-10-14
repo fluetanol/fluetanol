@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text==ㅁ=&fontSize=75&animation=fadeIn&fontAlignY=40" alt="header"/>
 </p>
 
-<div align="center"><h1>게임 개발자가 되고 싶은 오타쿠 서식지라능~ (전가배가 그렇게 하라고 했음)</h1></div>
+<div align="center"><h1>게임 개발자가 되고 싶은 오타쿠 서식지라능~</h1></div>
 
 <!-- ENGINE & LANGUAGE -->
 <div align="center"><h2>⚡ Stack</h2></div>
