@@ -6,9 +6,9 @@
 **Frontend Developer | Game Client Developer**
 
 
-안녕하세요! 웹 프론트엔드 개발과 게임 클라이언트 개발자 정태승입니다...
+안녕하세요! 웹 프론트엔드 개발 및 게임 클라이언트 개발자 정태승입니다...
 
-역시 재밌고 쓰기 좋은 서비스를 만드는 게 저한테도 재밌고 적성에 맞는 거 같습니다...!
+역시 재밌고 편안한 서비스를 만드는 게 저한테도 재밌고 적성에 맞는 거 같습니다...!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etanolfly98@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fluetanol)
