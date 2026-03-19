@@ -36,9 +36,3 @@
 | IDE | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 
 
 
-#### 그 외 열심히 살고 있는지 감시 하는 용도
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fluetanol&theme=radical&hide_border=true&background=0D1117)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mike415415)](https://solved.ac/mike415415)
-
