@@ -1,7 +1,8 @@
 ### 정태승 (Taeseung Jung)
 **Frontend Developer | Game Client Developer**
 
-개발자도 사용자도 바보도 알아보기 편한 깔끔한 코드와 결과물을 창조하고 싶은 개발자 정태승입니다.
+개발자 사용자 모두에게 도움이 되는 개발자 정태승입니다.
+
 | 항목 | 정보 |
 |------|------|
 | **이름** | 정태승 (Taeseung Jung) |
