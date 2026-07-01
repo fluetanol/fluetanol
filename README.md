@@ -5,6 +5,14 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 
 개발자 사용자 모두의 문제를 해결하고 싶은 개발자 정태승입니다.
 
+#### Education
+
+- 삼괴고등학교 졸업 : -2014.03 - 2017.01
+- 건국대학 컴퓨터공학부 졸업 : 2017.03 - 2024.01 
+- SSAFY 코딩 및 심화 프로젝트 과정 수료 : 2025.01 - 2025.12
+
+
+
 #### Stack
 
 - frontend : typescript, react, next.js, react-native
@@ -13,14 +21,8 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 - game : c#, unity
 
 
-### Education
 
-- 삼괴고등학교 졸업 : -2014.03 - 2017.01
-- 건국대학 컴퓨터공학부 졸업 : 2017.03 - 2024.01 
-- SSAFY 코딩 및 심화 프로젝트 과정 수료 : 2025.01 - 2025.12
-
-
-### Project
+#### Project
 
 | 프로젝트 명 | 프로젝트 기간 | 내용 | 
 |--------|------|------|
@@ -31,6 +33,6 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 | [여우비](https://github.com/ZipsAR/UnityAR_FoxRain)  | 2023.06 - 2023.08 | 퀄컴 AR 글래스를 기반으로 한 펫 육성 시뮬레이션 게임 개발 | 
 
 
-### Organization
+#### Organization
 - [luckydench](https://github.com/luckydench)
 - [ZipsAR](https://github.com/ZipsAR)
