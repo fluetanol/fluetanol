@@ -1,9 +1,13 @@
 ### 정태승 (Taeseung Jung)
 <img src="https://img.shields.io/badge/Frontend-gray" alt="front" /> <img src="https://img.shields.io/badge/GameDeveloper-gray" alt="game" />
 
-etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link)
+개발자 사용자 모두의 문제를 해결하고 싶은 개발자
 
-개발자 사용자 모두의 문제를 해결하고 싶은 개발자 정태승입니다.
+- etanolfly98@gmail.com
+- [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link)
+
+
+---
 
 #### Education
 
@@ -11,7 +15,7 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 - 건국대학 컴퓨터공학부 졸업 : 2017.03 - 2024.01 
 - SSAFY 코딩 및 심화 프로젝트 과정 수료 : 2025.01 - 2025.12
 
-
+---
 
 #### Stack
 
@@ -20,7 +24,7 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 - infra : vercel, cloudtype
 - game : c#, unity
 
-
+---
 
 #### Project
 
@@ -32,7 +36,9 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 | [Dench](https://github.com/luckydench/dench-fetch) | 2026.04 ~ | fetch DX 개선 NPM 라이브러리 | 
 | [여우비](https://github.com/ZipsAR/UnityAR_FoxRain)  | 2023.06 - 2023.08 | 퀄컴 AR 글래스를 기반으로 한 펫 육성 시뮬레이션 게임 개발 | 
 
+---
 
 #### Organization
+
 - [luckydench](https://github.com/luckydench)
 - [ZipsAR](https://github.com/ZipsAR)
