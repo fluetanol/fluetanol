@@ -23,7 +23,7 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 ### Project
 
 | 프로젝트 명 | 프로젝트 기간 | 내용 | 
-|--------|------|------|------|
+|--------|------|------|
 | [Promocean](https://github.com/ssafy-last/promocean) | 2025.10 - 2025.11 | 프롬프트 공유 및 관리 서비스 개발 |
 | [알바냥](https://github.com/ssafy13th-fintech) | 2025.09 - 2025.10 | 알바생 근태 관리 및 급여 관리 앱 서비스 개발 | 
 | [즈믄누리](https://github.com/fluetanol/Zmnoory) | 2025.08 - 2025.09 | 동양인의 AI 학습 데이터 셋 불균형 문제를 해소하기 위한 웹 서비스 개발 |
