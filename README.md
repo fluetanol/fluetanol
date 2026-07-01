@@ -6,27 +6,25 @@
 - etanolfly98@gmail.com
 - [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link)
 
-
 ---
 
-#### Education
+### Education
 
-- 삼괴고등학교 졸업 : -2014.03 - 2017.01
+- 삼괴고등학교 졸업 : 2014.03 - 2017.01
 - 건국대학 컴퓨터공학부 졸업 : 2017.03 - 2024.01 
 - SSAFY 코딩 및 심화 프로젝트 과정 수료 : 2025.01 - 2025.12
 
----
 
-#### Stack
+### Stack
 
-- frontend : typescript, react, next.js, react-native
+- frontend : ES6, typescript, react, next.js, react-native
 - backend : express.js, spring framework, mysql
 - infra : vercel, cloudtype
 - game : c#, unity
 
 ---
 
-#### Project
+### Project
 
 | 프로젝트 명 | 프로젝트 기간 | 내용 | 
 |--------|------|------|
@@ -38,7 +36,7 @@
 
 ---
 
-#### Organization
+### Organization
 
 - [luckydench](https://github.com/luckydench)
 - [ZipsAR](https://github.com/ZipsAR)
