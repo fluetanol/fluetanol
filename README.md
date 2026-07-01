@@ -1,5 +1,5 @@
 ### 정태승 (Taeseung Jung)
-**Frontend Developer/ Game Developer**
+<img src="https://img.shields.io/badge/Frontend-gray" alt="front" /> <img src="https://img.shields.io/badge/GameDeveloper-gray" alt="game" />
 
 etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link)
 
@@ -32,7 +32,5 @@ etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion
 
 
 ### Organization
-
-
-
-
+- [luckydench](https://github.com/luckydench)
+- [ZipsAR](https://github.com/ZipsAR)
