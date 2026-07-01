@@ -18,7 +18,7 @@
 ### Stack
 
 - frontend : ES6, typescript, react, next.js, react-native
-  - lib : zustand, tanstack query, storybook, axios
+  - lib : zustand, tanstack query, storybook, axios, three.js
 - backend : express.js, spring framework, mysql
   - lib : prisma
 - infra : vercel, cloudtype
