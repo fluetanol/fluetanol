@@ -29,13 +29,14 @@
 
 ### Project
 
-| 프로젝트 명 | 프로젝트 기간 | 내용 | 
-|--------|------|------|
-| [Promocean](https://github.com/ssafy-last/promocean) | 2025.10 - 2025.11 | 프롬프트 공유 및 관리 서비스 개발 |
-| [알바냥](https://github.com/ssafy13th-fintech) | 2025.09 - 2025.10 | 알바생 근태 관리 및 급여 관리 앱 서비스 개발 | 
-| [즈믄누리](https://github.com/fluetanol/Zmnoory) | 2025.08 - 2025.09 | 동양인의 AI 학습 데이터 셋 불균형 문제를 해소하기 위한 웹 서비스 개발 |
-| [Dench](https://github.com/luckydench/dench-fetch) | 2026.04 ~ | fetch DX 개선 NPM 라이브러리 | 
-| [여우비](https://github.com/ZipsAR/UnityAR_FoxRain)  | 2023.06 - 2023.08 | 퀄컴 AR 글래스를 기반으로 한 펫 육성 시뮬레이션 게임 개발 | 
+| 프로젝트 명 | 프로젝트 기간 | 내용 | 썸네일
+|--------|------|------| ----- |
+| [Promocean](https://github.com/ssafy-last/promocean) | 2025.10 - 2025.11 | 프롬프트 공유 및 관리 서비스 개발 |  |
+| [알바냥](https://github.com/ssafy13th-fintech) | 2025.09 - 2025.10 | 알바생 근태 관리 및 급여 관리 앱 서비스 개발 |  | 
+| [즈믄누리](https://github.com/fluetanol/Zmnoory) | 2025.08 - 2025.09 | 동양인의 AI 학습 데이터 셋 불균형 문제를 해소하기 위한 웹 서비스 개발 |  |
+| [Dench](https://github.com/luckydench/dench-fetch) | 2026.04 ~ | fetch DX 개선 NPM 라이브러리 |   |
+| [여우비](https://github.com/ZipsAR/UnityAR_FoxRain)  | 2023.06 - 2023.08 | 퀄컴 AR 글래스를 기반으로 한 펫 육성 시뮬레이션 게임 개발 |   |
+| [Gitshboard](https://github.com/luckydenki/Gitshboard) | 2026.04 ~ | Github api를 이용한 대시보드 사이트 [(링크)](https://github.com/luckydenki/Gitshboard) | <img width="540" height="303" alt="ezgif-8828bfbb82edbf51" src="https://github.com/user-attachments/assets/b0b35cd7-4739-44af-9ca5-6065a788fe1c" /> |
 
 ---
 
