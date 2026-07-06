@@ -18,13 +18,15 @@
 
 ### Stack
 
-- **프론트엔드** : ES6, typescript, react, next.js, react-native
+- **프론트엔드** : Typescript, React, Next.js, React-native, Vite
   - lib : zustand, tanstack query, storybook, axios, three.js
-- **백엔드** : express.js, spring framework, mysql
-  - lib : prisma
-- **인프라** : vercel, cloudtype
-- **게임클라이언트** : c#, unity
-- **개발 도구** : jira, notion, github
+- **백엔드** : Node.js, Express.js, Spring Boot
+- **데이터베이스** : Mysql, Postgre SQL
+  - lib : prisma, Mybatis, JPA
+- **인프라** : Vercel, Cloudtype, Docker(compose)
+- **버전 컨트롤** : Github, GitLab, Git
+- **게임클라이언트** : C#, unity
+- **개발 도구** : jira, notion
 
 ---
 
