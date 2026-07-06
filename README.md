@@ -17,13 +17,13 @@
 
 ### Stack
 
-- frontend : ES6, typescript, react, next.js, react-native
+- **프론트엔드** : ES6, typescript, react, next.js, react-native
   - lib : zustand, tanstack query, storybook, axios, three.js
-- backend : express.js, spring framework, mysql
+- **백엔드** : express.js, spring framework, mysql
   - lib : prisma
-- infra : vercel, cloudtype
-- game : c#, unity
-- tools : jira, notion, github
+- **인프라** : vercel, cloudtype
+- **게임클라이언트** : c#, unity
+- **개발 도구** : jira, notion, github
 
 ---
 
