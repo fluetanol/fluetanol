@@ -2,7 +2,7 @@
 ### 정태승 (Taeseung Jung)
 <img src="https://img.shields.io/badge/Frontend-red" alt="front" /> <img src="https://img.shields.io/badge/GameDev-blue" alt="game" />
 
-개발자 사용자 모두의 문제를 해결하고 싶은 개발자
+기술로 개발자 사용자 모두의 문제를 해결하고 싶은 개발자
 
 - etanolfly98@gmail.com
 - [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link)
