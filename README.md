@@ -6,7 +6,7 @@
 
 - etanolfly98@gmail.com
 - [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link)
-
+- [포트폴리오(피그마)](https://www.figma.com/deck/I3Kcm4136byOeJnsumrMSX)
 
 ---
 
