@@ -2,18 +2,14 @@
 ### 정태승 (Taeseung Jung)
 <img src="https://img.shields.io/badge/Frontend-red" alt="front" /> <img src="https://img.shields.io/badge/GameDev-blue" alt="game" />
 
-기술로 개발자 사용자 모두의 문제를 해결하고 싶은 개발자
+### etanolfly98@gmail.com | [기술 블로그(velog)](https://velog.io/@mike415415/posts) |  [포트폴리오(피그마)](https://www.figma.com/deck/I3Kcm4136byOeJnsumrMSX)
 
-### etanolfly98@gmail.com | [기술 블로그(노션)](https://flyetanolstudy.notion.site/Flyetanol-2da408fdfcba80fa8061e230c0008e32?source=copy_link) | [기술 블로그(velog)](https://velog.io/@mike415415/posts) |  [포트폴리오(피그마)](https://www.figma.com/deck/I3Kcm4136byOeJnsumrMSX)
+### Organization
+
+- [luckydench](https://github.com/luckydench)
+- [ZipsAR](https://github.com/ZipsAR)
 
 ---
-
-### Education
-
-- 삼괴고등학교 졸업 : 2014.03 - 2017.01
-- 건국대학 컴퓨터공학부 졸업 : 2017.03 - 2024.01 
-- SSAFY 코딩 및 심화 프로젝트 과정 수료 : 2025.01 - 2025.12
-
 
 ### Stack
 
@@ -47,9 +43,3 @@
 | <div align="center"><div>[Dench](https://github.com/luckydench/dench-fetch)</div>  <img src="https://img.shields.io/badge/Library-gray" alt="front" /></div> | 2026.04 - 진행 중 | <div>fetch를 메서드 체이닝으로 구현하는 dx개선 라이브러리</div> [(npm 링크)](https://www.npmjs.com/package/dench-fetch) | <img width="300" alt="image" src="https://github.com/user-attachments/assets/3cbbe5ae-01d5-4f57-b921-a38cbe940b4b" />  |
 | <div align="center"><div>[Gitshboard](https://github.com/luckydenki/Gitshboard)</div>  <img src="https://img.shields.io/badge/Fullstack-purple" alt="front" /></div>  | 2026.04 - 진행 중 | <div>Github api를 이용한 대시보드 사이트 </div> [(사이트 링크)](https://github.com/luckydenki/Gitshboard) | <img width="300"  alt="ezgif-8828bfbb82edbf51" src="https://github.com/user-attachments/assets/b0b35cd7-4739-44af-9ca5-6065a788fe1c" /> |
 
----
-
-### Organization
-
-- [luckydench](https://github.com/luckydench)
-- [ZipsAR](https://github.com/ZipsAR)
