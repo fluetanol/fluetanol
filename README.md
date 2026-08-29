@@ -2,7 +2,10 @@
 ### 정태승 (Taeseung Jung)
 - etanolfly98@gmail.com 
 - [기술 블로그(velog)](https://velog.io/@mike415415/posts)
+<img src="https://gitshboard.vercel.app/api/readme/commit-activity.svg?username=fluetanol" alt= "fluetanol의 GitHub 커밋 활동"/>
 ---
+
+
 
 ### Project
 
