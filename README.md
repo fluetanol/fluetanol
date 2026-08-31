@@ -3,10 +3,10 @@
 - etanolfly98@gmail.com 
 - [기술 블로그(velog)](https://velog.io/@mike415415/posts)
 
-### Gitshboard 통계 데이터
+### Gitshboard 통계
 
-<p><img src="https://gitshboard.vercel.app/api/readme/weekly-commit-activity.svg?username=fluetanol&width=520&locale=ko" alt= "fluetanol의 GitHub 커밋 활동"/>
-<img src="https://gitshboard.vercel.app/api/readme/tech-distribution.svg?username=fluetanol&width=320&locale=ko" alt fluetanol의 Github 주요 언어"/></p>
+<p><img src="https://gitshboard.vercel.app/api/readme/weekly-commit-activity.svg?username=fluetanol&width=520&height=380&locale=ko" alt= "fluetanol의 GitHub 커밋 활동"/>
+<img src="https://gitshboard.vercel.app/api/readme/tech-distribution.svg?username=fluetanol&width=320&height=380&locale=ko" alt fluetanol의 Github 주요 언어"/></p>
 
 
 
