@@ -5,7 +5,7 @@
 
 ### Gitshboard 통계 데이터
 
-<p><img src="https://gitshboard.vercel.app/api/readme/commit-activity.svg?username=fluetanol&width=700&locale=ko" alt= "fluetanol의 GitHub 커밋 활동"/>
+<p><img src="https://gitshboard.vercel.app/api/readme/commit-activity.svg?username=fluetanol&width=650&locale=ko" alt= "fluetanol의 GitHub 커밋 활동"/>
 <img src="https://gitshboard.vercel.app/api/readme/tech-distribution.svg?username=fluetanol&width=300&locale=ko" alt fluetanol의 Github 주요 언어"/></p>
 
 
